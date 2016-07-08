@@ -1,0 +1,9 @@
+.form-group {
+    margin-bottom: 5px;
+}
+
+label {
+    display: block;
+    text-align: left;
+    margin-bottom: 0;
+}
