@@ -1,0 +1,41 @@
+.header{
+	font-family: 'Open Sans', sans-serif;
+}
+body {
+    background-color: #F1BBBB;
+    color: #3e6fa2;
+}
+
+h1 {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    font-weight: bold;
+}
+.photo{
+	opacity: 0.7;
+    height: 200px;
+}
+.button, input, select, textarea{
+	margin-bottom: 20px;
+}
+button, input, select, textarea {
+    margin-top: 5px;
+}
+.btn-warning {
+    background-color: #3e6fa2;
+    border-color: #3e6fa2;
+}
+.btn-warning:hover, .btn-warning.active.focus, .btn-warning.active:focus, .btn-warning.active:hover, .btn-warning:active.focus, .btn-warning:active:focus, .btn-warning:active:hover, .open>.dropdown-toggle.btn-warning.focus, .open>.dropdown-toggle.btn-warning:focus, .open>.dropdown-toggle.btn-warning:hover, .btn-warning.active, .btn-warning:active, .open>.dropdown-toggle.btn-warning{
+    background-color: #3e6fa2;
+    border-color: #3e6fa2;
+
+}
+.form-group {
+   margin-bottom: 5px;
+}
+
+label {
+   display: block;
+   text-align: left;
+   margin-bottom: 0;
+}
